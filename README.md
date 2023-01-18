@@ -1,7 +1,6 @@
 ### Hi there 👋
+![octocat-1672938911974](https://user-images.githubusercontent.com/119876001/213200702-bd5c7e9c-1722-46f4-9e97-8c94a58ddc73.png)
 
-<!--
-**Aidan54571/Aidan54571** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
