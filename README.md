@@ -1,8 +1,7 @@
 ### Hi there 👋
-![octocat-1672938911974](https://user-images.githubusercontent.com/119876001/213200702-bd5c7e9c-1722-46f4-9e97-8c94a58ddc73.png height=200)
 
 
-Here are some ideas to get you started:
+![octocat200](https://user-images.githubusercontent.com/119876001/213201622-f6da0de7-8560-4a5f-8f27-49eb30e210c9.png)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
