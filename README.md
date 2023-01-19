@@ -11,4 +11,4 @@
 - ⚡ Fun fact: Favorite color is Red
 
 
-## [Portfolio](https://github.com/Aidan54571/portfolio/index.html)
+## [Portfolio](https://aidan54571.github.io/portfolio/index.html)
