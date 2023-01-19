@@ -9,4 +9,4 @@
 - 📫 How to reach me: fishera23@wpsma.org
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Favorite color is Red
-
+- 📃 Portfolio: https://github.com/Aidan54571/portfolio
